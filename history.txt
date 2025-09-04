@@ -1,0 +1,12 @@
+amount,date,description
+75,05-09-2024,Coffee and snacks
+500,10-10-2024,New headphones
+120,15-11-2024,Lunch with colleagues
+200,03-12-2024,Birthday present for friend
+3000,01-01-2025,New laptop
+2200,20-02-2025,Phone upgrade
+90,08-03-2025,Bookstore
+660,03-04-2025,Course subscription
+35,27-05-2025,Taxi ride
+1400,13-06-2025,Furniture for livingroom
+20,30-07-2025,snacks at knight
